@@ -5,10 +5,10 @@
   <a href="https://earni.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:earnestdatasci@gmail.com">
+  <a href="mailto:earni8105@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/earnestdatasci/">
+  <a href="https://linkedin.com/in/earnest-s-7039b0287/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -19,8 +19,7 @@
 
 - Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
 - Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
-- Skilled in **Node.js**, **Python**, **Power BI**, **PostgreSQL**, **Jetpack Compose**
-- Certified in **Power BI**, **IoT**, and **Git & GitHub**
+- Skilled in **Node.js**, **Python**, **Power BI**, **PostgreSQL**,
 - Exploring: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Systems
 
 ---
