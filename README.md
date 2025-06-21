@@ -5,9 +5,6 @@
   <a href="https://earni.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:earni8105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/earnest-s-7039b0287/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
