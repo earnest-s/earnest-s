@@ -1,31 +1,40 @@
-<h1 align="center">Hi 👋, I'm Earnest S</h1>
+<h1 align="center">Hi, I'm Earnest S</h1>
 <h3 align="center">AI & Data Engineering Enthusiast | IoT Innovator | Portfolio Crafter</h3>
 
 <p align="center">
-  <a href="https://earni.onrender.com" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:earnestdatasci@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/earnestdatasci/">💼 LinkedIn</a>
+  <a href="https://earni.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:earnestdatasci@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/earnestdatasci/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+<hr />
+
+<h2>👤 About Me</h2>
+
+- Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
+- Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
+- Skilled in **Node.js**, **Python**, **Power BI**, **PostgreSQL**, **Jetpack Compose**
+- Certified in **Power BI**, **IoT**, and **Git & GitHub**
+- Exploring: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Systems
+
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**  
-- 🌱 Exploring real-time data pipelines, IoT-based monitoring, and AI-driven decision systems  
-- 🛠️ Built projects using **Node.js**, **Python**, **Power BI**, **PostgreSQL**, and **Jetpack Compose**  
-- 🔍 Interests: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Apps  
-- 🧾 Certified in **Power BI**, **IoT**, and **Git & GitHub**
+<h2>🧰 Languages & Tools</h2>
 
----
-
-### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,postgresql,html,css,vscode,github,git,powershell" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h2>📈 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true" width="48%" />
