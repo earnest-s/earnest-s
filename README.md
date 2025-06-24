@@ -26,15 +26,16 @@
 <h2>🧰 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,postgresql,html,css,vscode,github,git,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,postgresql,html,css,vscode,github,git,powershell,arduino,raspberrypi" />
 </p>
+
 
 ---
 
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
