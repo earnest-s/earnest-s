@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Earnest S</h1>
-<h3 align="center">AI & Data Engineering Enthusiast | IoT Innovator | Portfolio Crafter</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Earnest+S.;AI+%26+Data+Engineering+Enthusiast;IoT+Innovator+%7C+Portfolio+Crafter" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://earni.onrender.com" target="_blank">
@@ -8,16 +9,17 @@
   <a href="https://linkedin.com/in/earnest-s-7039b0287/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=snipergib&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 <hr />
 
 <h2>👤 About Me</h2>
 
-- Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
-- Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
-- Skilled in **Node.js**, **Python**, **Power BI**, **PostgreSQL**,
-- Exploring: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Systems
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
+- ⚙️ Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
+- 💻 Skilled in **Node.js**, **Python**, **Power BI**, **PostgreSQL**
+- 🚀 Exploring: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Systems
 
 ---
 
