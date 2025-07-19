@@ -35,15 +35,9 @@
 
 <!-- Uniform dimensions: set all card widths to 400px for alignment -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true&card_width=400" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=380" width="380px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true&card_width=380" width="380px" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=380" width="380px" />
 </p>
-
-<!-- Notes for reliability:
-  - If any card fails to load due to service downtime, try reloading after some time.
-  - For critical reliability, you can self-host the streak and stats cards.
--->
