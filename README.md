@@ -35,9 +35,9 @@
 
 <!-- Uniform dimensions: set all card widths to 400px for alignment -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" width="480px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true&card_width=480" width="480px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true&card_width=400" width="400px" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=480" width="480px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="400px" />
 </p>
