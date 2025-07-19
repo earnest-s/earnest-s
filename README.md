@@ -14,7 +14,7 @@
 
 <hr />
 
-<h2>👤 About Me</h2>
+## 👤 About Me
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
 - ⚙️ Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
@@ -23,22 +23,27 @@
 
 ---
 
-<h2>🧰 Languages & Tools</h2>
+## 🧰 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,postgresql,html,css,vscode,github,git,powershell,arduino,raspberrypi" />
 </p>
 
-
 ---
 
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
+<!-- Uniform dimensions: set all card widths to 400px for alignment -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=400" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true&card_width=400" width="400px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="400px" />
 </p>
+
+<!-- Notes for reliability:
+  - If any card fails to load due to service downtime, try reloading after some time.
+  - For critical reliability, you can self-host the streak and stats cards.
+-->
