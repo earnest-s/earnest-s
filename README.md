@@ -31,12 +31,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" width="480px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snipergib&theme=tokyonight&hide_border=true&card_width=480" width="480px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=480" width="480px" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="160px" />
+
+  <!-- Languages Card (Height Matched) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="160px" />
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snipergib&theme=tokyo-night&hide_border=true&area=true&radius=16" width="775px" />
+</div>
