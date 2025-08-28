@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/earnest-s-7039b0287/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=snipergib&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=earnest-s&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 <hr />
@@ -48,14 +48,14 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=snipergib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="160px" />
 
   <!-- Languages Card (Height Matched) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipergib&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnest-s&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="160px" />
 
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snipergib&theme=tokyo-night&hide_border=true&area=true&radius=16" width="775px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=earnest-s&theme=tokyo-night&hide_border=true&area=true&radius=16" width="775px" />
 </div>
