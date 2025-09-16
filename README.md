@@ -6,7 +6,7 @@
   <a href="https://earni.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/earnest-s-7039b0287/">
+  <a href="https://www.linkedin.com/in/earnest-kirubakaran-oswarld-s/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=earnest-s&style=for-the-badge&color=blue" alt="Profile views" />
