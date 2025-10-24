@@ -33,6 +33,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+AI+that+solves+real+problems;From+IoT+sensors+to+smart+insights" alt="Typing SVG" />
 </div>
+
 ---
 
 ## 🖥️ Dev Machine
