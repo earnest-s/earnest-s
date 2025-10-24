@@ -1,18 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Earnest+S.;AI+%26+Data+Enthusiast;IoT+Developer+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Earnest+S.;AI+%26+Data+Enthusiast;IoT+Enthusiast+%7C" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  
   <a href="https://earni.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-View-red?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=32" />
   </a>
+  
   <a href="https://www.linkedin.com/in/earnest-kirubakaran-oswarld-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=32" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=earnest-s&style=for-the-badge&color=blue" alt="Profile views" />
+  
+  <img src="https://komarev.com/ghpvc/?username=earnest-s&style=for-the-badge&color=green&label=Profile%20Views&logo=eye&logoColor=white&logoWidth=32" alt="Profile views" />
 </p>
 
-<hr />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=5000&pause=500&color=FF79C6&center=true&vCenter=true&width=600&lines=Let%27s+build+something+awesome+together!;Open+to+collabs+%26+coffee+chats+%E2%98%95" alt="Invite" />
+</p>
+<hr>
 
 ## 👤 About Me
 
@@ -21,6 +27,12 @@
 - 💻 Skilled in **React JS**, **Python**, **Power BI**, **PostgreSQL**
 - 🚀 Exploring: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Systems
 
+---
+
+## 💡 In My Own Words
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+AI+that+solves+real+problems;From+IoT+sensors+to+smart+insights" alt="Typing SVG" />
+</div>
 ---
 
 ## 🖥️ Dev Machine
@@ -38,8 +50,16 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgresql,html,css,vscode,github,git,powershell,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgresql,mongodb,html,css,vscode,github,git,powershell,arduino,raspberrypi" />
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=earnest-s&theme=onedark&row=1&column=6" />
+</div>
 
 ---
 
@@ -47,15 +67,12 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="160px" />
 
-  <!-- Languages Card (Height Matched) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnest-s&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="160px" />
 
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=earnest-s&theme=tokyo-night&hide_border=true&area=true&radius=16" width="775px" />
 </div>
