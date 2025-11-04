@@ -5,13 +5,17 @@
 <p align="center">
   
   <a href="https://earni.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-red?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=32" />
+    <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=32" />
   </a>
   
   <a href="https://www.linkedin.com/in/earnest-kirubakaran-oswarld-s/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=32" />
   </a>
-  
+
+  <a href="mailto:contact@earnest.qzz.io">
+  <img src="https://img.shields.io/badge/Email-contact@earnest.qzz.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   <img src="https://komarev.com/ghpvc/?username=earnest-s&style=for-the-badge&color=green&label=Profile%20Views&logo=eye&logoColor=white&logoWidth=32" alt="Profile views" />
 </p>
 
