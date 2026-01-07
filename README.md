@@ -60,14 +60,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=earnest-s&theme=onedark&row=1&column=6" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
