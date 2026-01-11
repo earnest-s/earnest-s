@@ -63,10 +63,11 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+<img
+  src="https://github-readme-stats-smoky-alpha-27.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
+/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" height="160px" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnest-s&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="160px" />
 
 </div>
 
