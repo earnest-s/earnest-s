@@ -62,23 +62,44 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
-<img
-  src="https://github-readme-stats-smoky-alpha-27.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
-/>
+<div align="center">
+
+<table width="775px">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-smoky-alpha-27.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-smoky-alpha-27.vercel.app/api/top-langs/?username=earnest-s&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=earnest-s&theme=tokyo-night&hide_border=true&area=true&radius=16" width="775px" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=earnest-s&theme=tokyo-night&hide_border=true&area=true&radius=16"
+    width="830px"
+  />
 </div>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/earnest-s/earnest-s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/earnest-s/earnest-s/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph"
-       src="https://raw.githubusercontent.com/earnest-s/earnest-s/output/pacman-contribution-graph.svg">
+       src="https://raw.githubusercontent.com/earnest-s/earnest-s/output/pacman-contribution-graph.svg"
+       width="830px">
 </picture>
+</div>
