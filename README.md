@@ -62,28 +62,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<table width="775px">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats-smoky-alpha-27.vercel.app/api?username=earnest-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats-smoky-alpha-27.vercel.app/api/top-langs/?username=earnest-s&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/earnest-s">
+    <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=earnest-s&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" width="415"/>
+    <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=earnest-s&layout=compact&langs_count=8&theme=react&hide_border=true&exclude_repo=comp426" width="415"/>
+  </a>
+</p>
 
 <div align="center">
   <img
