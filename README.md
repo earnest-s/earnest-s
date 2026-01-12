@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+    width="420"
+    alt="Coding animation"
+  />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Earnest+S.;AI+%26+Data+Enthusiast;IoT+Enthusiast+%7C" alt="Typing SVG" />
 </h1>
