@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Earnest+S.;AI+%26+Data+Enthusiast;IoT+Enthusiast+%7C" alt="Typing SVG" />
 </h1>
