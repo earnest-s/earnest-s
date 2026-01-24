@@ -72,27 +72,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=earnest-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000&icon_color=ff0000"
-    width="410"
-    height="160"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=earnest-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000&icon_color=ff0000" width="390" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=earnest-s&layout=compact&langs_count=5&theme=react&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000" width="390" height="160" />
 </div>
 
 <div align="center">
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=earnest-s&layout=compact&langs_count=5&theme=react&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000"
-  width="410"
-  height="160"
-/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=earnest-s&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true&radius=16" width="830px" />
 </div>
 
-<div align="center">
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=earnest-s&bg_color=0d1117&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true&radius=16"
-  width="830px"
-/>
-</div>
 
 <div align="center">
 <picture>
