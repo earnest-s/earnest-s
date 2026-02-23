@@ -64,7 +64,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgresql,mongodb,html,css,vscode,github,git,powershell,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgresql,mongodb,html,css,vscode,github,git,powershell,arduino,raspberrypi&perline=8" />
 </p>
 
 ---
