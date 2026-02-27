@@ -63,7 +63,7 @@
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Language & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgresql,mongodb,html,css,vscode,github,git,powershell,arduino,raspberrypi,cs,dotnet&perline=8" />
