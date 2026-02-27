@@ -33,7 +33,7 @@
 </p>
 <hr>
 
-## 👤 About 
+## 👤 About Me
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
 - ⚙️ Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
