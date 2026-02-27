@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Lenovo-LOQ-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/RAM-24GB_DDR5-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img src="https://img.shields.io/badge/OS-Fedora%20Linux-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
