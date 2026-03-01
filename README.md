@@ -37,8 +37,8 @@
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science (2023–2027) at **Karunya Institute of Technology and Sciences**
 - ⚙️ Building real-time data pipelines, IoT-based monitoring, and AI-powered decision tools
-- 💻 Skilled in **React JS**, **Python**, **Power BI**, **PostgreSQL**
-- 🚀 Exploring: AI Chatbots, Data Visualization, IoT Analytics, and Full Stack AI Systems
+- 💻 Skilled in **React JS**, **Python**, **Power BI**, **PostgreSQL**, **Data Analysis**, **Artificial Intelligence**
+- 🚀 Exploring: AI Chatbots, Data Visualization, IoT Analytics, App Development, and Full Stack AI Systems
 
 ---
 
