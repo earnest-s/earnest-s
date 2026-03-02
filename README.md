@@ -49,7 +49,7 @@
 
 ---
 
-## 🖥️ Dev Machin
+## 🖥️ Dev Machine
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lenovo-LOQ-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
