@@ -7,7 +7,6 @@
   <img 
     src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
     width="420"
-    alt="Coding animation"
   />
 </p>
 
@@ -74,8 +73,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=earnest-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000&icon_color=ff0000" width="390" height="160" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=earnest-s&layout=compact&langs_count=5&theme=react&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000" width="390" height="160" />
+  <table>
+    <tr border="0">
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=earnest-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000&icon_color=ff0000" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=earnest-s&layout=compact&langs_count=5&theme=react&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ff0000" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
