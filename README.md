@@ -21,7 +21,7 @@
   </a>
 
   <a href="mailto:earni8105@gmail.com">
-  <img src="https://img.shields.io/badge/Email-earni8105@gmail.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-earni8105@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
   <img src="https://komarev.com/ghpvc/?username=earnest-s&style=for-the-badge&color=green&label=Profile%20Views&logo=eye&logoColor=white&logoWidth=32" alt="Profile views" />
