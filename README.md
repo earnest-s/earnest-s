@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=32" />
   </a>
 
-  <a href="mailto:contact@earnest.qzz.io">
+  <a href="mailto:earni8105@gmail.com">
   <img src="https://img.shields.io/badge/Email-contact@earnest.qzz.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
