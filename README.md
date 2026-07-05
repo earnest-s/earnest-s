@@ -12,7 +12,7 @@
 
 <p align="center">
   
-  <a href="https://earnest-s.tec" target="_blank">
+  <a href="https://earnest-s.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=32" />
   </a>
   
